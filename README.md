@@ -1,5 +1,5 @@
 # COMP120-Tinkering-audio
-bruh epic gamer time
+bruh bruh epic gamer time
 # Contracts chosen: 1 & 4
 Contracts each person chose:
 Philip: 1
