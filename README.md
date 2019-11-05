@@ -1,5 +1,5 @@
 # COMP120-Tinkering-audio
-bruh bruh epic gamer time
+project of using audio files in Unity for diffrence purposes.
 # Contracts chosen: 1 & 4
 Contracts each person chose:
 Philip: 1
